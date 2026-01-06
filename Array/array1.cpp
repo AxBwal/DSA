@@ -9,3 +9,7 @@ int main (){
         }
     }
 }
+
+// Size of Array is 
+// sizeof(arr) / sizeof(nums[0])
+// Memory Allocation is Continuous in Array
